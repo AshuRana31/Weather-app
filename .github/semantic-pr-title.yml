@@ -1,1 +1,2 @@
-REGEX: ([GEN]i+-[0-9]+[\s])
+REGEX: ([GEN]|[gen]+-[0-9]+[\s])
+
